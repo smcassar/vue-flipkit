@@ -1,0 +1,12 @@
+{
+  "name": "vue-flipkit",
+  "version": "0.0.1-pre20",
+  "description": "React flip toolkit for Vue 3",
+  "main": "src/index.ts",
+  "author": "Sam Cassar <sam.cassar13@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "flip-toolkit": "^7.0.13",
+    "vue": "^3.0.3"
+  }
+}
